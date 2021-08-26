@@ -1,4 +1,4 @@
-# CPR CROSSENV
+# ALN ENRICHMENT
 
 Code supporting "Long-term incubation of lake water enables genomic sampling of consortia involving Planctomycetes and Candidate Phyla Radiation bacteria" (Jaffe, Fuster, et al., 2021).
 
